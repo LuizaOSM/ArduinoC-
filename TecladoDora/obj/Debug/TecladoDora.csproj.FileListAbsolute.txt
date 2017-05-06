@@ -1,0 +1,18 @@
+c:\users\luizapc\documents\visual studio 2015\Projects\TecladoDora\TecladoDora\bin\Debug\TecladoDora.exe.config
+c:\users\luizapc\documents\visual studio 2015\Projects\TecladoDora\TecladoDora\bin\Debug\TecladoDora.exe
+c:\users\luizapc\documents\visual studio 2015\Projects\TecladoDora\TecladoDora\bin\Debug\TecladoDora.pdb
+c:\users\luizapc\documents\visual studio 2015\Projects\TecladoDora\TecladoDora\obj\Debug\TecladoDora.csprojResolveAssemblyReference.cache
+c:\users\luizapc\documents\visual studio 2015\Projects\TecladoDora\TecladoDora\obj\Debug\TecladoDora.Form1.resources
+c:\users\luizapc\documents\visual studio 2015\Projects\TecladoDora\TecladoDora\obj\Debug\TecladoDora.Properties.Resources.resources
+c:\users\luizapc\documents\visual studio 2015\Projects\TecladoDora\TecladoDora\obj\Debug\TecladoDora.csproj.GenerateResource.Cache
+c:\users\luizapc\documents\visual studio 2015\Projects\TecladoDora\TecladoDora\obj\Debug\TecladoDora.exe
+c:\users\luizapc\documents\visual studio 2015\Projects\TecladoDora\TecladoDora\obj\Debug\TecladoDora.pdb
+C:\Users\LuizaPC\Documents\Visual Studio 2015\Projects\TecladoDora - Copy\TecladoDora\bin\Debug\TecladoDora.exe.config
+C:\Users\LuizaPC\Documents\Visual Studio 2015\Projects\TecladoDora - Copy\TecladoDora\obj\Debug\TecladoDora.exe
+C:\Users\LuizaPC\Documents\Visual Studio 2015\Projects\TecladoDora - Copy\TecladoDora\obj\Debug\TecladoDora.pdb
+C:\Users\LuizaPC\Documents\Visual Studio 2015\Projects\TecladoDora - Copy\TecladoDora\bin\Debug\TecladoDora.exe
+C:\Users\LuizaPC\Documents\Visual Studio 2015\Projects\TecladoDora - Copy\TecladoDora\bin\Debug\TecladoDora.pdb
+C:\Users\LuizaPC\Documents\Visual Studio 2015\Projects\TecladoDora - Copy\TecladoDora\obj\Debug\TecladoDora.csprojResolveAssemblyReference.cache
+C:\Users\LuizaPC\Documents\Visual Studio 2015\Projects\TecladoDora - Copy\TecladoDora\obj\Debug\TecladoDora.Form1.resources
+C:\Users\LuizaPC\Documents\Visual Studio 2015\Projects\TecladoDora - Copy\TecladoDora\obj\Debug\TecladoDora.Properties.Resources.resources
+C:\Users\LuizaPC\Documents\Visual Studio 2015\Projects\TecladoDora - Copy\TecladoDora\obj\Debug\TecladoDora.csproj.GenerateResource.Cache
